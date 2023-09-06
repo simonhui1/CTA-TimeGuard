@@ -14,11 +14,9 @@ There was no access to historical data for this project, and the script used to 
 
 ![2](./images/DPL.png)
 
-The Green Line has the most occurences of delayed trains.
+The Green Line has the most occurences of delayed trains. Below is an image of the Green Line.
 
 ![3](./images/cta_GREEN.png)
-
-This is the Green Line.
 
 ![4](./images/DBS.png)
 
