@@ -8,7 +8,7 @@ Chicago has the second-largest transit system in the United States, and yet, it 
 
 # Data Limitations
 
-There was no access to historical data for this project, and the script used to collect the data was not run on a cloud server, so there were hours where the script was not active. 
+There was no access to historical data for this project, and the script used to collect the data was not run on a cloud server, so there were hours where the script was not active. For more information about my script, please refer [here](./train_api_script.ipynb).
 
 # Data Analysis
 
