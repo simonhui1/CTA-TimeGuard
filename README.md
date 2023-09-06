@@ -4,7 +4,7 @@
 
 # Overview of Business Problem and Project 
 
-Chicago has the second-largest transit system in the United States, and yet, it is still plagued with constant delays. The goal of this project is to arrive at a functioning predictive model to predict delays for commuting trains in Chicago. 
+Chicago has the second-largest transit system in the United States, and yet, it is still plagued with constant delays. The goal of this project is to arrive at a functioning predictive model to predict delays for commuting CTA trains in Chicago. 
 
 # Data Limitations
 
