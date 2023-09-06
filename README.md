@@ -40,7 +40,7 @@ Decision Tree
 * 14.04% recall
 * F1-score of 0.113
 
-#Conclusion and Future Insights 
+# Conclusion and Future Insights 
 
 The best-performing model that came out of this project, has subpar precision, recall, and F1-score. However, this is an iterative process and I will continue finetuning hyperparameters to improve the performance of this model and hopefully deploy it on an app. Nonetheless, there are several recommendations to the commuters of Chicago:
 
