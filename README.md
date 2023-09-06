@@ -9,7 +9,7 @@ I conducted a data analysis and machine learning project focused on predicting t
 1. Data Collection via API Script
 2. Exploratory Data Anaylsis 
 3. Data Preprocessing
-4. Model Selection
+4. Selection of Models
 5. Model Evaluation
 6. Experiment with TPOT AutoML
 7. Future Directions
