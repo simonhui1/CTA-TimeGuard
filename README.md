@@ -6,7 +6,7 @@
 
 I conducted a data analysis and machine learning project focused on predicting train delays for the Chicago Transit Authority (CTA). The goal was to develop a model that could anticipate delays and improve transit management. Here's an overview of the steps I took:
 
-1. Data Collection 
+1. Data Collection via API Script
 2. Data Preprocessing
 3. Model Selection
 4. Model Evaluation
