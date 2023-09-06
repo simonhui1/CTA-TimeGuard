@@ -6,7 +6,7 @@
 
 Chicago has the second-largest transit system in the United States, and yet, it is still plagued with constant delays. 
 
-#Data Limitations
+# Data Limitations
 
 There was no access to historical data for this project, and also no access to a cloud server where it was possible to run the script 24/7 to collect data for every hour.
 
