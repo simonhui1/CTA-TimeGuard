@@ -40,18 +40,27 @@ Station 40100 is Morse, which is highlighted here.
 
 6 PM CST is the hour with the most occurences of delayed trains.
 
-# Selected Model
+# Currently Selected Model
 
-Decision Tree
+XGBoost 
 
-* 11.85% precision
-* 14.04% recall
-* F1-score of 0.113
+* XGBoost Test Set Accuracy: 0.9910268756018559
+* XGBoost Test Set Precision: 0.1111111111111111
+* XGBoost Test Set Recall: 0.11403508771929824
+* XGBoost Test Set F1-score: 0.11255411255411256
 
-# Conclusion and Future Insights 
+# Conclusion
 
-The best-performing model that came out of this project, has subpar precision, recall, and F1-score. However, this is an iterative process and I will continue finetuning hyperparameters to improve the performance of this model and hopefully deploy it on an app. Nonetheless, there are several recommendations to the commuters of Chicago:
+Currently, the best-performing model has subpar f1-score, precision, and recall.  However, predictive modeling is an iterative process and I will continue to refine the model until it is ready for deployment. A more technical roadmap is discussed in the Future Insights section below. 
 
-* Prepare in advance
-* Download available train-tracking apps
-* Use alternative commuting methods, such as biking
+# Future Insights 
+
+* Feature Selection: Use TPOT or other feature selection techniques to identify the most important features and simplify the model while maintaining or even improving predictive power.
+
+* Ensemble Methods: Consider ensemble methods, such as stacking, to combine the strengths of multiple models and improve predictive accuracy.
+
+* Collect More Data: If possible, collect more data to improve model training. Larger datasets can help the models learn more patterns and generalize better.
+
+* Domain Knowledge: Consult domain experts or stakeholders to gain insights into the factors affecting delays in public transportation. Their insights might lead to better feature engineering or model improvements.
+
+* Consider Alternative Models: Experiment with alternative models, such as time series forecasting techniques, to address the temporal nature of public transportation data.
