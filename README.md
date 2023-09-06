@@ -4,7 +4,15 @@
 
 # Overview of Business Problem and Project 
 
-Chicago has the second-largest transit system in the United States, and yet, it is still plagued with constant delays. The goal of this project is to arrive at a functioning predictive model to predict delays for commuting CTA trains in Chicago. 
+I conducted a data analysis and machine learning project focused on predicting train delays for the Chicago Transit Authority (CTA). The goal was to develop a model that could anticipate delays and improve transit management. Here's an overview of the steps I took:
+
+1. Data Collection 
+2. Data Preprocessing
+3. Model Selection
+4. Model Evaluation
+5. Experiment with TPOT AutoML
+6. Future Directions
+7. Conclusion
 
 # Data Limitations
 
