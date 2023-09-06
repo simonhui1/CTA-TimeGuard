@@ -8,7 +8,7 @@ Chicago has the second-largest transit system in the United States, and yet, it 
 
 # Data Limitations
 
-There was no access to historical data for this project, and also no access to a cloud server where it was possible to run the script 24/7 to collect data for every hour.
+There was no access to historical data for this project, and the script used to collect the data was not run on a cloud server, so there were hours where the script was not active. 
 
 # Data Analysis
 
