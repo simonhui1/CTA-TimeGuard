@@ -1,4 +1,4 @@
-# Predictive Service Delay Management for CTA Trains
+# Predictive Service Delay Management for CTA Trains 
 
 ![1](./images/CTA_train.jpg)
 
