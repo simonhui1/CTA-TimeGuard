@@ -15,10 +15,10 @@ I conducted a data analysis and machine learning project focused on predicting t
 7. Future Directions
 8. Conclusion
 
-For a more in-depth and technical workflow analysis, please refer to the [Jupyter notebook](./index_organized.ipynb). 
+For a more in-depth and technical workflow analysis, please refer to the [Jupyter notebook](./analysis.ipynb). 
 # Data Limitations
 
-There was no access to historical data for this project, and the script used to collect the relevant transit data was not run on a cloud server, so there were hours where the script was not active. For more information about my script, please refer [here](./train_api_script.ipynb).
+There was no access to historical data for this project, and the script used to collect the relevant transit data was not run on a cloud server, so there were hours where the script was not active. For more information about my script, please refer [here](./api_data_fetcher.ipynb).
 
 # Data Analysis on Delays
 
