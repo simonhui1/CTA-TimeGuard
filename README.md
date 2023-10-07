@@ -2,7 +2,7 @@
 
 ![1](./images/CTA_train.jpg)
 
-# Overview of Business Problem and Project 
+## Overview of Business Problem and Project 
 
 I conducted a data analysis and machine learning project focused on predicting train delays for the Chicago Transit Authority (CTA). The goal was to develop a model that could anticipate delays and improve transit management. Here's an overview of the steps I took:
 
@@ -16,11 +16,11 @@ I conducted a data analysis and machine learning project focused on predicting t
 8. Conclusion
 
 For a more in-depth and technical workflow analysis, please refer to the [Jupyter notebook](./analysis.ipynb). 
-# Data Limitations
+## Data Limitations
 
 There was no access to historical data for this project, and the script used to collect the relevant transit data was not run on a cloud server, so there were hours where the script was not active. For more information about my script, please refer [here](./api_data_fetcher.ipynb).
 
-# Data Analysis on Delays
+## Data Analysis on Delays
 
 ![2](./images/DPL.png)
 
@@ -40,7 +40,7 @@ Station 40100 is Morse, which is highlighted here.
 
 6 PM CST is the hour with the most occurences of delayed trains.
 
-# Currently Selected Model
+## Currently Selected Model
 
 XGBoost 
 
@@ -49,11 +49,11 @@ XGBoost
 * XGBoost Test Set Recall: 0.11403508771929824
 * XGBoost Test Set F1-score: 0.11255411255411256
 
-# Conclusion
+## Conclusion
 
 Currently, the best-performing model has subpar f1-score, precision, and recall.  However, predictive modeling is an iterative process and I will continue to refine the model until it is ready for deployment. A more technical roadmap is discussed in the Future Insights section below. 
 
-# Future Insights 
+## Future Insights 
 
 * Feature Selection: Use TPOT or other feature selection techniques to identify the most important features and simplify the model while maintaining or even improving predictive power.
 
