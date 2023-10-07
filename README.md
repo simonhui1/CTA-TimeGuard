@@ -1,4 +1,4 @@
-# Predictive Service Delay Management for CTA Trains 
+# CTA TimeGuard: Predicting Train Delays for Smoother Commutes 
 
 ![1](./images/CTA_train.jpg)
 
